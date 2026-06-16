@@ -1,2 +1,28 @@
-# bookkeeping--accounting-regulatory-compliance-checklist-notion-template
-Industry regulation tracker, audit prep, certification expiry, and gap analysis. Never miss a compliance deadline or audit requirement.
+# Bookkeeping & Accounting Regulatory Compliance Checklist Notion Template
+
+
+
+---
+
+## Free vs Pro
+
+| Feature | Free | Pro |
+|---------|:----:|:---:|
+| Basic template | Yes | Yes |
+| Standard views | Yes | Yes |
+| Sample data | Yes | Yes |
+| Advanced automations | - | Yes |
+| Custom formulas | - | Yes |
+| Multiple databases | - | Yes |
+| Dashboard views | - | Yes |
+| Video tutorials | - | Yes |
+| Lifetime updates | - | Yes |
+
+### Upgrade to Pro
+
+Get the full version with all premium features, priority support, and lifetime updates.
+
+**[Get Pro Version](https://buy.stripe.com/aFa6oHdPp1g05tucDWcZL0b)**
+
+- [Buy Now (Stripe)](https://buy.stripe.com/aFa6oHdPp1g05tucDWcZL0b)
+
